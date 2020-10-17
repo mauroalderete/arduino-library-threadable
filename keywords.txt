@@ -7,6 +7,7 @@
 #######################################
 
 Threadable	KEYWORD1	Threadable
+StatusThreadable KEYWORD1 StatusThreadable
 
 #######################################
 # Methods and Functions (KEYWORD2)
@@ -16,7 +17,7 @@ Pause	KEYWORD2
 Resume	KEYWORD2
 Stop	KEYWORD2
 Loop	KEYWORD2
-StatusThreadable	KEYWORD2
+Tick    KEYWORD2
 
 #######################################
 # Constants (LITERAL1)
